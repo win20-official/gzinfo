@@ -14,9 +14,8 @@ package_data = {}
 console_scripts = []
 
 classifiers = [
-    "Programming Language :: Python :: 3.6",
-    "Programming Language :: Python :: 3.7",
-    "Programming Language :: Python :: 3.8"]
+    "Programming Language :: Python :: 3.6+"
+]
 
 # description
 this_directory = os.path.abspath(os.path.dirname(__file__))
