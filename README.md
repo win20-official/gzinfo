@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.com/PierreSelim/gzinfo.svg?branch=master)](https://travis-ci.com/PierreSelim/gzinfo)
 
 Getting the original filename form gzip archive in Python (compatible with
-Python 3.6, 3.7 and 3.8).
+Python 3.6+).
 
 ## Install
 from github directly:
